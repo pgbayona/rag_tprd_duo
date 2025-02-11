@@ -1,0 +1,19 @@
+## .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Streamlit and local configs
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+

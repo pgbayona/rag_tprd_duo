@@ -1,0 +1,9 @@
+## requirements.txt
+
+streamlit
+openai
+pdfplumber
+PyPDF2
+python-docx
+requests
+beautifulsoup4
